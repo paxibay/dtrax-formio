@@ -60,7 +60,7 @@ export default (environment = 'development') => {
             extensions: ['.ts', '.js']
         },
         devServer: {
-            port: 8000,
+            port: 8008,
             inline: true,
             hot: true,
             historyApiFallback: true,
